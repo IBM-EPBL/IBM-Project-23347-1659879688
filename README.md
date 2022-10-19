@@ -2,6 +2,7 @@
 Global Sales Data Analytics
 
 - [Project Objectives](https://github.com/IBM-EPBL/IBM-Project-23347-1659879688/blob/main/Project%20Objectives.md)
+- [Project Flow](https://github.com/IBM-EPBL/IBM-Project-23347-1659879688/blob/main/Project%20Flow.md)
 - [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-23347-1659879688/blob/main/Literature%20Survey.md)
 - [Empathy Map](https://github.com/IBM-EPBL/IBM-Project-23347-1659879688/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
 
